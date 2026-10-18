@@ -1,1 +1,0 @@
-give @p minecraft:nether_star[custom_name={text:"Speed Blessing",color:"aqua",bold:true,italic:false},lore=[{text:"A blessing of speed...",color:"gray",italic:false},{text:"Keep in your inventory to gain speed.",color:"aqua",italic:false}],max_stack_size=1,custom_data={speed_blessing:1b}] 1

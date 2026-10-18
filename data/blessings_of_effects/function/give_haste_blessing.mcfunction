@@ -1,1 +1,0 @@
-give @p minecraft:nether_star[custom_name={text:"Haste Blessing",color:"yellow",bold:true,italic:false},lore=[{text:"A blessing of haste...",color:"gray",italic:false},{text:"Keep in your inventory to gain haste.",color:"yellow",italic:false}],max_stack_size=1,custom_data={haste_blessing:1b}] 1
