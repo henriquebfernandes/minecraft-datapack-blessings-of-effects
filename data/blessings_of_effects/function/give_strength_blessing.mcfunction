@@ -1,0 +1,1 @@
+give @p minecraft:nether_star[custom_name={text:"Strength Blessing",color:"red",bold:true,italic:false},lore=[{text:"A blessing of strength...",color:"gray",italic:false},{text:"Keep in your inventory to gain strength.",color:"red",italic:false}],max_stack_size=1,custom_data={strength_blessing:1b}] 1
