@@ -1,3 +1,3 @@
-summon item ~ ~ ~ {Item:{id:"minecraft:nether_star",count:1,components:{"minecraft:custom_name":{text:"Strength Blessing",color:"red",bold:true,italic:false},"minecraft:lore":[{text:"A blessing of strength...",color:"gray",italic:false},{text:"Keep in your inventory to gain strength.",color:"red",italic:false}],"minecraft:max_stack_size":1,"minecraft:custom_data":{strength_blessing:1b}}}}
+summon item ~ ~ ~ {Item:{id:"minecraft:nether_star",count:1,components:{"minecraft:custom_name":{text:"Strength Blessing",color:"red",bold:true,italic:false},"minecraft:lore":[{text:"A blessing of strength...",color:"gray",italic:false},{text:"Keep in your inventory to gain strength.",color:"red",italic:false}],"minecraft:custom_data":{strength_blessing:1b}}}}
 playsound minecraft:entity.ender_dragon.growl master @a ~ ~ ~ 1 1 1
 tellraw @a [{"text":" the ","color":"white"},{"text":"Strength Blessing","color":"red","bold":true},{"text":" was invoked ","color":"white"}]
